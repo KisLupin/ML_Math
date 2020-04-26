@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b9ed9bf-f358-46af-9931-95a3dc8e2f0a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a0xb4TC5qFSVdZjvwTpbZXjKd0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SoftmaxRegression">
+    <configuration name="App_K-Means" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="svcc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App_K-Means.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LRMomentum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="svcc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LRMomentum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LogisticLinear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="svcc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LogisticLinear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SoftmaxRegression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="svcc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftmaxRegression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="svcc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SoftmaxRegression" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.App_K-Means" />
+        <item itemvalue="Python.LogisticLinear" />
+        <item itemvalue="Python.LRMomentum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b9ed9bf-f358-46af-9931-95a3dc8e2f0a" name="Default Changelist" comment="" />
+      <created>1585886380627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585886380627</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="235" key="#Inspections" timestamp="1585923196088">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="391" y="235" key="#Inspections/0.23.1920.1177@0.23.1920.1177" timestamp="1585923196088" />
+    <state x="759" y="380" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585987300941">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="759" y="380" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1177@0.23.1920.1177" timestamp="1585987300941" />
+    <state x="787" y="314" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587791240457">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="787" y="314" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1587791240457" />
+    <state width="1155" height="373" key="GridCell.Tab.0.bottom" timestamp="1587917688968">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1155" height="373" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1587917688968" />
+    <state width="1155" height="373" key="GridCell.Tab.0.center" timestamp="1587917688967">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1155" height="373" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1587917688967" />
+    <state width="1155" height="373" key="GridCell.Tab.0.left" timestamp="1587917688966">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1155" height="373" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1587917688966" />
+    <state width="1155" height="373" key="GridCell.Tab.0.right" timestamp="1587917688967">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1155" height="373" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1587917688967" />
+    <state width="1155" height="627" key="GridCell.Tab.1.bottom" timestamp="1587913950821">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1155" height="627" key="GridCell.Tab.1.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1587913950821" />
+    <state width="1155" height="627" key="GridCell.Tab.1.center" timestamp="1587913950821">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1155" height="627" key="GridCell.Tab.1.center/0.23.1920.1177@0.23.1920.1177" timestamp="1587913950821" />
+    <state width="1155" height="627" key="GridCell.Tab.1.left" timestamp="1587913950821">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1155" height="627" key="GridCell.Tab.1.left/0.23.1920.1177@0.23.1920.1177" timestamp="1587913950821" />
+    <state width="1155" height="627" key="GridCell.Tab.1.right" timestamp="1587913950821">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1155" height="627" key="GridCell.Tab.1.right/0.23.1920.1177@0.23.1920.1177" timestamp="1587913950821" />
+    <state x="600" y="210" key="SettingsEditor" timestamp="1587791273001">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="600" y="210" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1587791273001" />
+    <state x="604" y="438" key="com.intellij.ide.util.TipDialog" timestamp="1587912536226">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="604" y="438" key="com.intellij.ide.util.TipDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1587912536226" />
+  </component>
+</project>
