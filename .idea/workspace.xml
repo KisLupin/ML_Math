@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b9ed9bf-f358-46af-9931-95a3dc8e2f0a" name="Default Changelist" comment="" />
+    <list default="true" id="1b9ed9bf-f358-46af-9931-95a3dc8e2f0a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +21,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a0xb4TC5qFSVdZjvwTpbZXjKd0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -34,7 +39,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.SoftmaxRegression">
+  <component name="RunManager" selected="Python.backpropagation">
     <configuration name="App_K-Means" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="svcc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,48 +61,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="LRMomentum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="svcc" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LRMomentum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="LogisticLinear" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="svcc" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LogisticLinear.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="SoftmaxRegression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="svcc" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,6 +74,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SoftmaxRegression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="backpropagation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="svcc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backpropagation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="svc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="svcc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/svc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.SoftmaxRegression" />
+        <item itemvalue="Python.backpropagation" />
         <item itemvalue="Python.test" />
+        <item itemvalue="Python.svc" />
+        <item itemvalue="Python.SoftmaxRegression" />
         <item itemvalue="Python.App_K-Means" />
-        <item itemvalue="Python.LogisticLinear" />
-        <item itemvalue="Python.LRMomentum" />
       </list>
     </recent_temporary>
   </component>
@@ -176,45 +181,49 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="787" y="314" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1587791240457" />
-    <state width="1155" height="373" key="GridCell.Tab.0.bottom" timestamp="1587918508176">
+    <state width="1155" height="281" key="GridCell.Tab.0.bottom" timestamp="1588003255881">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1155" height="373" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1587918508176" />
-    <state width="1155" height="373" key="GridCell.Tab.0.center" timestamp="1587918508176">
+    <state width="1155" height="281" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1588003255881" />
+    <state width="1155" height="281" key="GridCell.Tab.0.center" timestamp="1588003255881">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1155" height="373" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1587918508176" />
-    <state width="1155" height="373" key="GridCell.Tab.0.left" timestamp="1587918508175">
+    <state width="1155" height="281" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1588003255881" />
+    <state width="1155" height="281" key="GridCell.Tab.0.left" timestamp="1588003255880">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1155" height="373" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1587918508175" />
-    <state width="1155" height="373" key="GridCell.Tab.0.right" timestamp="1587918508176">
+    <state width="1155" height="281" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1588003255880" />
+    <state width="1155" height="281" key="GridCell.Tab.0.right" timestamp="1588003255881">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1155" height="373" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1587918508176" />
-    <state width="1155" height="627" key="GridCell.Tab.1.bottom" timestamp="1587913950821">
+    <state width="1155" height="281" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1588003255881" />
+    <state width="1155" height="627" key="GridCell.Tab.1.bottom" timestamp="1587983377047">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1155" height="627" key="GridCell.Tab.1.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1587913950821" />
-    <state width="1155" height="627" key="GridCell.Tab.1.center" timestamp="1587913950821">
+    <state width="1155" height="627" key="GridCell.Tab.1.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1587983377047" />
+    <state width="1155" height="627" key="GridCell.Tab.1.center" timestamp="1587983377047">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1155" height="627" key="GridCell.Tab.1.center/0.23.1920.1177@0.23.1920.1177" timestamp="1587913950821" />
-    <state width="1155" height="627" key="GridCell.Tab.1.left" timestamp="1587913950821">
+    <state width="1155" height="627" key="GridCell.Tab.1.center/0.23.1920.1177@0.23.1920.1177" timestamp="1587983377047" />
+    <state width="1155" height="627" key="GridCell.Tab.1.left" timestamp="1587983377046">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1155" height="627" key="GridCell.Tab.1.left/0.23.1920.1177@0.23.1920.1177" timestamp="1587913950821" />
-    <state width="1155" height="627" key="GridCell.Tab.1.right" timestamp="1587913950821">
+    <state width="1155" height="627" key="GridCell.Tab.1.left/0.23.1920.1177@0.23.1920.1177" timestamp="1587983377046" />
+    <state width="1155" height="627" key="GridCell.Tab.1.right" timestamp="1587983377047">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1155" height="627" key="GridCell.Tab.1.right/0.23.1920.1177@0.23.1920.1177" timestamp="1587913950821" />
+    <state width="1155" height="627" key="GridCell.Tab.1.right/0.23.1920.1177@0.23.1920.1177" timestamp="1587983377047" />
     <state x="600" y="210" key="SettingsEditor" timestamp="1587791273001">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="600" y="210" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1587791273001" />
-    <state x="604" y="438" key="com.intellij.ide.util.TipDialog" timestamp="1587912536226">
+    <state x="604" y="438" key="com.intellij.ide.util.TipDialog" timestamp="1588002289234">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="604" y="438" key="com.intellij.ide.util.TipDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1587912536226" />
+    <state x="604" y="438" key="com.intellij.ide.util.TipDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1588002289234" />
+    <state x="793" y="219" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588002307851">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="793" y="219" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1920.1177@0.23.1920.1177" timestamp="1588002307851" />
   </component>
 </project>
